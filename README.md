@@ -15,4 +15,4 @@ I'm interested in AI/ML and NLP, and I'm working toward a research career.
 - Data Analysis
 
 ### Reach me
-- LinkedIn: https://www.linkedin.com/in/tulasibirudu/
+- LinkedIn: [https://www.linkedin.com/in/tulasibirudu/]
