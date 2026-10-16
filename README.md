@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Tulasi 👋
 
-<!--
-**tulasi-birudu/tulasi-birudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Tech Data Science student at BVRIT Women's Engineering College, Hyderabad.
+I'm interested in AI/ML and NLP, and I'm working toward a research career.
 
-Here are some ideas to get you started:
+### Currently
+- 📚 Studying machine learning and NLP
+- 💻 Building hands-on projects
+- 🌱 Working toward publishing research papers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Python
+- SQL
+- Machine Learning
+- Data Analysis
+
+### Reach me
+- LinkedIn: https://www.linkedin.com/in/tulasibirudu/
